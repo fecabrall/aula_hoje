@@ -1,0 +1,1 @@
+print('A mwlhor faculdade de tecnologia do Brasil')
